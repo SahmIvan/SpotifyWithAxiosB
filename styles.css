@@ -1,0 +1,48 @@
+#headTitle{
+
+    padding-bottom: 4rem;
+}
+#SearchDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+input{
+   
+  
+    flex: auto;
+    align-items: center;
+    /* width: 50%; */
+    /* size: 1000px; */
+    padding: 5px;
+    border-radius: 20px ;
+    text-align: center;
+    background-color: transparent;
+    box-shadow: 0px 1px 10px 4px; 
+    color: #fff;
+    padding-left: 20px;
+    
+
+}
+
+/* label{
+    
+    padding-right: 5rem;
+}
+#enter{
+    margin-left: 5rem;
+} */
+
+#SpotifyLogo{
+    max-width: 10%;
+ max-height: 10%;
+}
+
+h2{
+    font-size: 1rem;
+}
+
+
+
+
